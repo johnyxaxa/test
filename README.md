@@ -6,4 +6,4 @@ cmd : clear, cd, ls, ls -Hidden
 //cloned repo johnyxaxa/test to local env
 //created a file
 // using git commit -m
-//using git push (upload/ push to remote env)
+//using git push origin main (upload/ push to remote env)
